@@ -1,0 +1,23 @@
+
+	Simple Antivirus for Windows
+		Version 1.0
+
+Report was created at date: 2023/04/07, time: 22:10:24
+Command line : -w ..
+
+Loading Database, Antivirus records: 0
+Processing ..
+
+Scanned
+Sectors:            0
+Files:              4
+Folders:           21
+
+Found
+Infected:           0
+Warnings:           0
+Disinfected:        0
+Deleted:            0
+I/O Errors:         0
+
+Scan process was stopped at date: 2023/04/07, time: 22:10:24
